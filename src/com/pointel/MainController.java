@@ -14,4 +14,8 @@ public class MainController {
 		return a * b;
 	}
 
+	private int divideNumber(int a, int b) {
+		return a / b;
+	}
+
 }
