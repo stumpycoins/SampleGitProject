@@ -18,4 +18,8 @@ public class MainController {
 		return a / b;
 	}
 
+	private int generateRandomNumber(int a, int b) {
+		return a * b + a + b;
+	}
+
 }
